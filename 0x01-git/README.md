@@ -1,1 +1,2 @@
-this id my second project in git 
+this is my second project in git 
+up_to_date
